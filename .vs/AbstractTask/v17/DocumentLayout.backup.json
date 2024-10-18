@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\AbstractTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F52D735-B9A9-4C67-AA1B-F84C556663F8}|AbstractTask\\AbstractTask.csproj|c:\\users\\user\\onedrive\\desktop\\secondproject\\abstracttask\\abstracttask\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F52D735-B9A9-4C67-AA1B-F84C556663F8}|AbstractTask\\AbstractTask.csproj|solutionrelative:abstracttask\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F52D735-B9A9-4C67-AA1B-F84C556663F8}|AbstractTask\\AbstractTask.csproj|c:\\users\\user\\onedrive\\desktop\\secondproject\\abstracttask\\abstracttask\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F52D735-B9A9-4C67-AA1B-F84C556663F8}|AbstractTask\\AbstractTask.csproj|solutionrelative:abstracttask\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F52D735-B9A9-4C67-AA1B-F84C556663F8}|AbstractTask\\AbstractTask.csproj|c:\\users\\user\\onedrive\\desktop\\secondproject\\abstracttask\\abstracttask\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F52D735-B9A9-4C67-AA1B-F84C556663F8}|AbstractTask\\AbstractTask.csproj|solutionrelative:abstracttask\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F52D735-B9A9-4C67-AA1B-F84C556663F8}|AbstractTask\\AbstractTask.csproj|c:\\users\\user\\onedrive\\desktop\\secondproject\\abstracttask\\abstracttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F52D735-B9A9-4C67-AA1B-F84C556663F8}|AbstractTask\\AbstractTask.csproj|solutionrelative:abstracttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\AbstractTask\\AbstractTask\\Bicycle.cs",
+              "RelativeDocumentMoniker": "AbstractTask\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\AbstractTask\\AbstractTask\\Bicycle.cs",
+              "RelativeToolTip": "AbstractTask\\Bicycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:03:15.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\AbstractTask\\AbstractTask\\Car.cs",
+              "RelativeDocumentMoniker": "AbstractTask\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\AbstractTask\\AbstractTask\\Car.cs",
+              "RelativeToolTip": "AbstractTask\\Car.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCwAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:02:28.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\AbstractTask\\AbstractTask\\Vehicle.cs",
+              "RelativeDocumentMoniker": "AbstractTask\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\AbstractTask\\AbstractTask\\Vehicle.cs",
+              "RelativeToolTip": "AbstractTask\\Vehicle.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCMAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:42:40.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\AbstractTask\\AbstractTask\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractTask\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\AbstractTask\\AbstractTask\\Program.cs",
+              "RelativeToolTip": "AbstractTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:21:42.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
